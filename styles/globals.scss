@@ -58,7 +58,6 @@ a {
 
 .footer {
   display: flex;
-  // padding: 2rem 0;
   border-top: 1px solid #dfdfdf;
 }
 
@@ -67,17 +66,12 @@ a {
   justify-content: center;
   align-items: center;
   flex-grow: 1;
+  padding: 0 0.5rem;
 }
 
 .title a {
   color: #0070f3;
   text-decoration: none;
-}
-
-.footer {
-  a {
-    padding: 0 0.5rem;
-  }
 }
 
 .footer a:hover {
