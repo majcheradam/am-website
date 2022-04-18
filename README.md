@@ -1,5 +1,5 @@
 # Adam Majcher - Personal page
-
+[![CodeFactor](https://www.codefactor.io/repository/github/majcheradam/am-website/badge/main)](https://www.codefactor.io/repository/github/majcheradam/am-website/overview/main)
 
 ##   📖 Ogólne informacje
 
